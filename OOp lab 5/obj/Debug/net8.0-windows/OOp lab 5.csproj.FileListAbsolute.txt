@@ -1,0 +1,19 @@
+D:\dinaxy\OOp lab 5\OOp lab 5\bin\Debug\net8.0-windows\OOp lab 5.exe
+D:\dinaxy\OOp lab 5\OOp lab 5\bin\Debug\net8.0-windows\OOp lab 5.deps.json
+D:\dinaxy\OOp lab 5\OOp lab 5\bin\Debug\net8.0-windows\OOp lab 5.runtimeconfig.json
+D:\dinaxy\OOp lab 5\OOp lab 5\bin\Debug\net8.0-windows\OOp lab 5.dll
+D:\dinaxy\OOp lab 5\OOp lab 5\bin\Debug\net8.0-windows\OOp lab 5.pdb
+D:\dinaxy\OOp lab 5\OOp lab 5\obj\Debug\net8.0-windows\OOp_lab_5.Form1.resources
+D:\dinaxy\OOp lab 5\OOp lab 5\obj\Debug\net8.0-windows\OOp_lab_5.View.Calcform.resources
+D:\dinaxy\OOp lab 5\OOp lab 5\obj\Debug\net8.0-windows\OOp_lab_5.View.FormAge.resources
+D:\dinaxy\OOp lab 5\OOp lab 5\obj\Debug\net8.0-windows\OOp lab 5.csproj.GenerateResource.cache
+D:\dinaxy\OOp lab 5\OOp lab 5\obj\Debug\net8.0-windows\OOp lab 5.GeneratedMSBuildEditorConfig.editorconfig
+D:\dinaxy\OOp lab 5\OOp lab 5\obj\Debug\net8.0-windows\OOp lab 5.AssemblyInfoInputs.cache
+D:\dinaxy\OOp lab 5\OOp lab 5\obj\Debug\net8.0-windows\OOp lab 5.AssemblyInfo.cs
+D:\dinaxy\OOp lab 5\OOp lab 5\obj\Debug\net8.0-windows\OOp lab 5.csproj.CoreCompileInputs.cache
+D:\dinaxy\OOp lab 5\OOp lab 5\obj\Debug\net8.0-windows\OOp lab 5.dll
+D:\dinaxy\OOp lab 5\OOp lab 5\obj\Debug\net8.0-windows\refint\OOp lab 5.dll
+D:\dinaxy\OOp lab 5\OOp lab 5\obj\Debug\net8.0-windows\OOp lab 5.pdb
+D:\dinaxy\OOp lab 5\OOp lab 5\obj\Debug\net8.0-windows\OOp lab 5.genruntimeconfig.cache
+D:\dinaxy\OOp lab 5\OOp lab 5\obj\Debug\net8.0-windows\ref\OOp lab 5.dll
+D:\dinaxy\OOp lab 5\OOp lab 5\obj\Debug\net8.0-windows\OOp_lab_5.View.CalcForm2.resources
